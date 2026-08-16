@@ -1,0 +1,38 @@
+COMMUNITY HEALTH CENTRE - SCREENING SUMMARY
+Report date: 09 May 2026
+
+PATIENT
+Name: Meera Iyer (FICTIONAL - test data)
+Sex: female
+Age: 38
+Occupation: Retail manager
+
+VITALS
+Height: 160 cm
+Weight: 79 kg
+BMI: 30.9 kg/m2 [HIGH]
+Blood pressure: 144/90 mmHg [HIGH]
+
+LABORATORY
+Total cholesterol: 232 mg/dL [HIGH]
+LDL: 149 mg/dL [HIGH]
+HDL: 41 mg/dL [normal]
+Triglycerides: 196 mg/dL [HIGH]
+HbA1c: 6.4 % [HIGH - prediabetic]
+Fasting glucose: 118 mg/dL [HIGH]
+
+LIFESTYLE
+Smoking: former smoker, quit 3 years ago, 10 pack-year history
+Alcohol: moderate
+Physical activity: sedentary
+Work pattern: rotating shift
+Sleep: 6 hours per night
+Stress: high
+
+FAMILY HISTORY
+Mother: type 2 diabetes diagnosed age 44
+Brother: type 2 diabetes diagnosed age 41
+
+NOTES
+Strong family history of type 2 diabetes combined with prediabetic HbA1c.
+Structured lifestyle intervention recommended.

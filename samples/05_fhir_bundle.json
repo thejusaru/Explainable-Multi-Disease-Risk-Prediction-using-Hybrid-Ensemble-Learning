@@ -1,0 +1,236 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "gender": "male",
+        "birthDate": "1988-07-15",
+        "name": [
+          {
+            "family": "Testpatient",
+            "given": [
+              "Arun"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "Systolic blood pressure",
+          "coding": [
+            {
+              "display": "Systolic blood pressure"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 152,
+          "unit": "mmHg"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "Diastolic blood pressure",
+          "coding": [
+            {
+              "display": "Diastolic blood pressure"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 96,
+          "unit": "mmHg"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "Body height",
+          "coding": [
+            {
+              "display": "Body height"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 174,
+          "unit": "cm"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "Body weight",
+          "coding": [
+            {
+              "display": "Body weight"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 91,
+          "unit": "kg"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "Total cholesterol",
+          "coding": [
+            {
+              "display": "Total cholesterol"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 244,
+          "unit": "mg/dL"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "LDL cholesterol",
+          "coding": [
+            {
+              "display": "LDL cholesterol"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 168,
+          "unit": "mg/dL"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "HDL cholesterol",
+          "coding": [
+            {
+              "display": "HDL cholesterol"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 36,
+          "unit": "mg/dL"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "Triglycerides",
+          "coding": [
+            {
+              "display": "Triglycerides"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 210,
+          "unit": "mg/dL"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "Hemoglobin A1c",
+          "coding": [
+            {
+              "display": "Hemoglobin A1c"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 6.3,
+          "unit": "%"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "code": {
+          "text": "Fasting glucose",
+          "coding": [
+            {
+              "display": "Fasting glucose"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "value": 121,
+          "unit": "mg/dL"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "code": {
+          "text": "Essential hypertension",
+          "coding": [
+            {
+              "display": "Essential hypertension"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "code": {
+          "text": "Tobacco use disorder",
+          "coding": [
+            {
+              "display": "Tobacco use disorder"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "status": "active",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine 5mg daily"
+        }
+      }
+    }
+  ]
+}
